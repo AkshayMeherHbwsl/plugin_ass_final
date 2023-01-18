@@ -1,0 +1,207 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-05-09 23:09+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/class-wpb-admin.php:144
+msgctxt ""
+"Taxonomy General Name"
+msgid "Book Categories"
+msgstr ""
+
+#: admin/class-wpb-admin.php:145
+msgctxt ""
+"Taxonomy Singular Name"
+msgid "Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:146
+msgid "Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:147
+msgid "All Items"
+msgstr ""
+
+#: admin/class-wpb-admin.php:148
+#: admin/class-wpb-admin.php:188
+msgid "Parent Item"
+msgstr ""
+
+#: admin/class-wpb-admin.php:149
+#: admin/class-wpb-admin.php:189
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-wpb-admin.php:150
+msgid "Add Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:151
+msgid ""
+"Add New Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:152
+msgid "Edit Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:153
+msgid ""
+"Update Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:154
+msgid "View Book Category"
+msgstr ""
+
+#: admin/class-wpb-admin.php:155
+#: admin/class-wpb-admin.php:195
+msgid ""
+"Separate items with "
+"commas"
+msgstr ""
+
+#: admin/class-wpb-admin.php:156
+#: admin/class-wpb-admin.php:196
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/class-wpb-admin.php:157
+#: admin/class-wpb-admin.php:197
+msgid ""
+"Choose from the most used"
+msgstr ""
+
+#: admin/class-wpb-admin.php:158
+#: admin/class-wpb-admin.php:198
+msgid "Popular Items"
+msgstr ""
+
+#: admin/class-wpb-admin.php:159
+msgid "Search Items"
+msgstr ""
+
+#: admin/class-wpb-admin.php:160
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-wpb-admin.php:161
+#: admin/class-wpb-admin.php:201
+msgid "No items"
+msgstr ""
+
+#: admin/class-wpb-admin.php:162
+#: admin/class-wpb-admin.php:202
+msgid "Items list"
+msgstr ""
+
+#: admin/class-wpb-admin.php:163
+#: admin/class-wpb-admin.php:203
+msgid ""
+"Items list navigation"
+msgstr ""
+
+#: admin/class-wpb-admin.php:184
+msgctxt ""
+"Taxonomy General Name"
+msgid "Book Tags"
+msgstr ""
+
+#: admin/class-wpb-admin.php:185
+msgctxt ""
+"Taxonomy Singular Name"
+msgid "Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:186
+msgid "Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:187
+msgid "All Book Tags"
+msgstr ""
+
+#: admin/class-wpb-admin.php:190
+msgid "Add Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:191
+msgid "Add New Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:192
+msgid "Edit Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:193
+msgid "Update Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:194
+msgid "View Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:199
+msgid "Search Book Tag"
+msgstr ""
+
+#: admin/class-wpb-admin.php:200
+msgid "Not Book Tag Found"
+msgstr ""
+
+#: widgets/wp_book_cust_widget.php:57
+msgid "Text:"
+msgstr ""
+
+#: widgets/wp_book_cust_widget.php:65
+msgid "Select"
+msgstr ""
